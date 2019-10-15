@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PruebaCalculadora</string>
+    <string name="btn1">Sumar</string>
+    <string name="btn2">Restar</string>
+    <string name="btn3">Multiplicar</string>
+    <string name="btn4">Dividir</string>
+    <string name="res">Resultado</string>
+    <string name="ing">Ingrese los numeros</string>
+    <string name="num1">Numero1</string>
+    <string name="num2">Numero2</string>
+
+    <string name="tv1">Resdultado de la suma</string>
+    <string name="bt1">Regresar</string>
+
+
+    <string name="tv2">Resdultado de la resta</string>
+    <string name="bt2">Regresar</string>
+
+</resources>
